@@ -58,29 +58,98 @@ a{
     border: 5px solid black;
     position: absolute;
     left: 150px;
-    display: flex;
-    text-align: center;
+    box-shadow: 10px 5px 5px rgb(25, 203, 192);
 }
+
+.igri1:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.d:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
 .igri2{
     width: 200px;
     height: 200px;
     border: 5px solid;
     position: absolute;
     left: 450px;
+    box-shadow: 10px 5px 5px rgb(203, 25, 25);
 }
+
+.igri2:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.o:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
 .igri3{
     width: 200px;
     height: 200px;
     border: 5px solid;
     position: absolute;
     left: 750px;
+    box-shadow: 10px 5px 5px rgb(46, 41, 156);
 }
+
+.igri3:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.m1:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
 .igri4{
     width: 200px;
     height: 200px;
     border: 5px solid;
     position: absolute;
     left: 1050px;
+    box-shadow: 10px 5px 5px rgb(71, 154, 83);
+}
+
+.igri4:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.iu:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
 
 .igri5{
@@ -89,4 +158,21 @@ a{
     border: 5px solid;
     position: absolute;
     left: 1350px;
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+}
+
+.igri5:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.r:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
