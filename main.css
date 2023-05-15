@@ -21,7 +21,7 @@
 .r{
     width: 200px;
     height: 200px;
-    border: 5px solid;
+    border: 5px solid black;
     position: absolute;
     left: 1350px;
     box-shadow: 10px 5px 5px rgb(0, 0, 0);
@@ -50,7 +50,7 @@
 .iu{
     width: 200px;
     height: 200px;
-    border: 5px solid;
+    border: 5px solid black;
     position: absolute;
     left: 1050px;
     box-shadow: 10px 5px 5px rgb(71, 154, 83);
@@ -63,7 +63,7 @@ a{
 .o{
     width: 200px;
     height: 200px;
-    border: 5px solid;
+    border: 5px solid black;
     position: absolute;
     left: 450px;
     box-shadow: 10px 5px 5px rgb(203, 25, 25);
@@ -72,7 +72,7 @@ a{
 .m1{
     width: 200px;
     height: 200px;
-    border: 5px solid;
+    border: 5px solid black;
     position: absolute;
     left: 750px;
     box-shadow: 10px 5px 5px rgb(46, 41, 156);
