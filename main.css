@@ -2,19 +2,17 @@
     padding: 0px;
     margin: 0px;
     font-size: 20px;
-    background: url("https://top-fon.com/uploads/posts/2022-09/1663602093_2-top-fon-com-p-serii-fon-dlya-montazha-foto-2.png");
+    background: url("https://phonoteka.org/uploads/posts/2021-05/1620737416_2-phonoteka_org-p-cherno-belii-fon-geometriya-2.png");
     background-size: 100%;
+    top: 50px;
 }
-
-
-    
 
 .e1, .e2{
     position: absolute;
     font-size: 30px;
     color: rgb(97, 87, 87);
     left: 750px;
-    top: 400px;
+    top: 350px;
     background: rgba(255, 255, 255, 0);
 }
 
@@ -37,14 +35,8 @@
 }
 
 .e2{
-    top: 440px;
+    top: 400px;
     left: 770px;
-}
-
-.ii{
-    height: 837px;
-    width: 1707px;
-    position: absolute
 }
 
 .iu{
@@ -78,27 +70,7 @@ a{
     box-shadow: 10px 5px 5px rgb(46, 41, 156);
 }
 
-
-
-.igri1:hover{
-    transition: 1s;
-    width: 250px;
-    height: 250px;
-    border-top-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-}
-
 .d:hover{
-    transition: 1s;
-    width: 250px;
-    height: 250px;
-    border-top-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-}
-
-
-
-.igri2:hover{
     transition: 1s;
     width: 250px;
     height: 250px;
@@ -114,15 +86,6 @@ a{
     border-bottom-right-radius: 30px;
 }
 
-
-.igri3:hover{
-    transition: 1s;
-    width: 250px;
-    height: 250px;
-    border-top-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-}
-
 .m1:hover{
     transition: 1s;
     width: 250px;
@@ -131,34 +94,7 @@ a{
     border-bottom-right-radius: 30px;
 }
 
-
-
-.igri4:hover{
-    transition: 1s;
-    width: 250px;
-    height: 250px;
-    border-top-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-}
-
 .iu:hover{
-    transition: 1s;
-    width: 250px;
-    height: 250px;
-    border-top-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-}
-
-.igri5{
-    width: 200px;
-    height: 200px;
-    border: 5px solid;
-    position: absolute;
-    left: 1350px;
-    box-shadow: 10px 5px 5px rgb(0, 0, 0);
-}
-
-.igri5:hover{
     transition: 1s;
     width: 250px;
     height: 250px;
@@ -184,6 +120,132 @@ a{
 }
 
 .t:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.tet{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    box-shadow: 10px 5px 5px rgb(211, 149, 26);
+}
+
+.tet:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.pak{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 100px;
+    top: 550px;
+    box-shadow: 10px 5px 5px rgb(97, 46, 58);
+}
+
+.pak:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.raw{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 350px;
+    top: 550px;
+    box-shadow: 10px 5px 5px rgb(103, 103, 112);
+}
+
+.raw:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.aar{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 600px;
+    top: 550px;
+    box-shadow: 10px 5px 5px rgb(1, 74, 12);
+}
+
+.aar:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.traw{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 850px;
+    top: 550px;
+    box-shadow: 10px 5px 5px rgb(64, 34, 111);
+}
+
+.traw:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.gm{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 1100px;
+    top: 550px;
+    box-shadow: 10px 5px 5px rgb(74, 224, 144);
+}
+
+.gm:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.rknr{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 1350px;
+    top: 550px;
+    box-shadow: 10px 5px 5px rgb(74, 224, 144);
+}
+
+.rknr:hover{
     transition: 1s;
     width: 250px;
     height: 250px;
