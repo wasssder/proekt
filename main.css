@@ -36,7 +36,7 @@
 
 .e2{
     top: 400px;
-    left: 770px;
+    left: 810px;
 }
 
 .iu{
@@ -246,6 +246,24 @@ a{
 }
 
 .rknr:hover{
+    transition: 1s;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.qw{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: absolute;
+    left: 1350px;
+    top: 300px;
+    box-shadow: 10px 5px 5px rgb(169, 167, 38);
+}
+
+.qw:hover{
     transition: 1s;
     width: 250px;
     height: 250px;
